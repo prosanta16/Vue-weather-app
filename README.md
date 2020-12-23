@@ -19,3 +19,9 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+##image of some of the outputs:
+![weather-app-1](https://user-images.githubusercontent.com/39440175/102963475-6409ef80-4513-11eb-8c85-ed13fe14a2b1.jpg)
+![weather-app-2](https://user-images.githubusercontent.com/39440175/102963483-679d7680-4513-11eb-84f5-154499a1efd0.jpg)
+
